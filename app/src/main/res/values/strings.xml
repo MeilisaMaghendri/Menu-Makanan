@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">List makanan</string>
+    <string name="ayam_penyet">
+        Ayam Penyet
+        DADA + Sambal Terasi
+        Harga :             25.000.
+    </string>
+    <string name="pecel_lele">
+        Pecel Lele
+        1 Porsi + Sambal Terasi
+        Harga :             20.000.
+    </string>
+    <string name="soto">
+        Soto Ayam
+        1 Porsi
+        Harga :      12.000.
+    </string>
+    <string name="mie_ayam">
+        Mie Ayam
+        1 Porsi + Bakso
+        Harga :    22.000.
+    </string>
+    <string name="ayam_bakar">
+        Ayam Bakar
+        DADA + Sambal Terasi
+        Harga :             30.000.
+    </string>
+    <string name="ayam_geprek">
+        ayam Geprek
+         DADA + Sambal Bawang
+         Harga :      17.500.
+    </string>
+</resources>
